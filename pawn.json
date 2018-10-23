@@ -3,6 +3,6 @@
 	"repo": "inline-timers",
 	"dependencies": [
     "Southclaws/samp-stdlib",
-    "pawn-lang/YSI-Includes@5.x",
+    "pawn-lang/YSI-Includes@5.x"
    ]
 }
