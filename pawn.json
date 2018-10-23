@@ -1,0 +1,8 @@
+{
+	"user": "C_far",
+	"repo": "inline-timers",
+	"dependencies": [
+    "Southclaws/samp-stdlib",
+    "pawn-lang/YSI-Includes@5.x",
+   ]
+}
